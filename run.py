@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Path to the core.py file
-file_path = '/content/facefusion/facefusion/uis/layouts/default.py'
+file_path = '/content/facefusion-v1.3.1/facefusion/uis/layouts/default.py'
 
 # Read the content of the file
 with open(file_path, 'r') as file:
